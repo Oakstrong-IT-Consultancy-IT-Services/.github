@@ -10,13 +10,13 @@ For some of our open-source solutions please take a look at our public GitHub li
 
 We also provide some free coding tutorials and challenges from time to time, to help starting developers learn the basic concepts of programming!
 
-### Contact
+## Contact
 
 If you would like to contact us about working with one of our companies please don't hesitate and go to our website and fill in our contact form and we will have an associated contact you as soon as possible.
 
 [it-consultancy.oakstrong.eu](it-consultancy.oakstrong.eu) or
 [it-services.oakstrong.eu](it-services.oakstrong.eu)
 
-### Social media links
+## Social media links
 [![linkedin](https://img.shields.io/badge/Oakstrong_IT_consultancy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oakstrong-it-consultancy/)
 [![linkedin](https://img.shields.io/badge/Oakstrong_IT_services-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oakstrong-it-consultancy/)
